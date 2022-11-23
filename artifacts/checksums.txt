@@ -1,0 +1,1 @@
+397f3b86f9b024208d251f98ce3c43b27fb088edf4bdaada245f8eda33d80626  cw_nameservice.wasm
